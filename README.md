@@ -1,5 +1,4 @@
 # Movie Trailer Site
-Project 1 of Full Stack Nanodegree 
 ## Description
 Movie Trailer Treasure Chest is a site created as the first project submission for the Udacity Full Stack Web Developer        Nanodegree. This site has content containing titles, poster art, and trailers of a selection of movies. It is created with Python, HTML and CSS.
 
